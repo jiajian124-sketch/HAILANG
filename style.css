@@ -449,7 +449,7 @@ tbody tr:hover {
   right: 0;
   bottom: 0;
   padding: 8px 32px;
-  background: linear-gradient(90deg, rgba(15, 23, 42, 0.96), rgba(30, 64, 175, 0.96));
+  background: linear-gradient(90deg, rgb(82 162 192 / 96%), rgb(166 220 220 / 96%));
   color: #e5e7eb;
   display: flex;
   align-items: center;
